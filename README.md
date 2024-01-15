@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [click here](https://your-solution-url.com)
-- Live Site URL: [click Here](https://your-live-site-url.com)
+- Live Site URL: [click Here]([https://your-live-site-url.com](https://arjuno-008.github.io/product-preview-card-component-main-Frontend-Mentor/))
 
 ## My process
 
