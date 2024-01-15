@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [click here](https://your-solution-url.com)
+- Solution URL: [click here](https://www.frontendmentor.io/solutions/productpreviewcardcomponent-ljQfJkFnSm)
 - Live Site URL: [click Here](https://arjuno-008.github.io/product-preview-card-component-main-Frontend-Mentor/)
 - 
 ## My process
